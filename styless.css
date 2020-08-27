@@ -1,0 +1,49 @@
+body {
+    margin: 0 auto;
+    background-color: lightgray;
+    font-family: Helvetica;
+}
+
+h1,
+h2 {
+    margin: 0;
+}
+
+header h1{
+    font-size: 4em;
+    padding: 20px;
+    text-align: center;
+}
+
+h2 {
+    padding: 15px;
+}
+
+header,
+main,
+footer {
+    background-color: thistle;
+    text-align: center;
+    margin-left: 10em;
+    margin-right: 10em;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+main {
+    margin-top: 0;
+}
+
+p {
+   padding-bottom: 10px;
+}
+
+section {
+    font-size: 1.25em;
+}
+
